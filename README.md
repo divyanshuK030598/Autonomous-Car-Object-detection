@@ -8,3 +8,4 @@
     c). Anchor box
     d). YOLO
 5). Python and other deep learning plateforms (tensorflow , keras) are used to code for the same.
+6). The above model can be trained on our own images by processing the image int onumpy array.
