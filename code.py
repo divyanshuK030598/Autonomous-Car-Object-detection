@@ -1,4 +1,4 @@
-import argparse
+
 import os
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import imshow
