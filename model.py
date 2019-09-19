@@ -54,3 +54,6 @@ def predict(sess, image_file):
     imshow(output_image)
     
     return out_scores, out_boxes, out_classes
+
+#running on our test image
+out_scores, out_boxes, out_classes = predict(sess, "test.jpg")
