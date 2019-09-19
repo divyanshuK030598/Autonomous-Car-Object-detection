@@ -8,3 +8,9 @@
     c). Anchor box
     d). YOLO
 5). Python and other deep learning plateforms (tensorflow , keras) are used to code for the same.
+
+
+2.1 - Model details
+
+The input is a batch of images of shape (m, 608, 608, 3)
+The output is a list of bounding boxes along with the recognized classes. Each bounding box is represented by 6 numbers (p_c, b_x, b_y, b_h, b_w, c)
